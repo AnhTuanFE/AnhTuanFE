@@ -23,9 +23,9 @@ Here are some ideas to get you started:
         src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 </p>
 <p align="center">
-    <a href="https://github.com/phamnhutnpx">
+    <a href="https://github.com/AnhTuanFE">
         <img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Pham+Xuan+Nhut;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
+            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Nguyen+Anh+Tuan;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
     </a>
 </p>
 <br>
